@@ -24,6 +24,6 @@ phrase = "expert"
 puts expert
 end
 
-def pizza_party
-
+def pizza_party(topping = "cheese")
+puts topping
 end
